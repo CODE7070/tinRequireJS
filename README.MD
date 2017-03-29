@@ -2,7 +2,7 @@
 0.0.1
 
 # 原理：
-原理最近在写博客，正准备上传到博客中，到时候上传好这里会贴上地址
+http://blog.csdn.net/cde7070/article/details/65935888
 
 # 用法：
 1. 在html页面中导入tinRequire.js文件，并指明data-main：
